@@ -1,0 +1,22 @@
+# Virtual environments
+myvenv/
+backend/myvenv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Django DB
+*.sqlite3
+
+# VS Code settings
+.vscode/
+
+# Secrets
+.env
+
+*/migrations/
+
+media/
